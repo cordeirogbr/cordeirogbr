@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 Sou **Software Engineer** formado em **Análise e Desenvolvimento de Sistemas (UMC)**.  
-Atuo no desenvolvimento fullstack com **TypeScript**, **React**, **C#/.NET** e **Python**, criando desde plataformas web e sistemas de gestão até automações e bots inteligentes. Tenho experiência com **PostgreSQL**, **Docker** e deploy em ambientes Linux, sempre focado em entregar soluções completas, escaláveis e bem estruturadas.
+Atuo no desenvolvimento fullstack com **TypeScript**, **React**, **C#/.NET**, **Python**, **HTML** e **MySQL**, criando desde plataformas web e sistemas de gestão até automações e bots inteligentes. Tenho experiência com **PostgreSQL**, **Docker** e deploy em ambientes Linux, sempre focado em entregar soluções completas, escaláveis e bem estruturadas.
 
 ---
 
@@ -44,6 +44,7 @@ Atuo no desenvolvimento fullstack com **TypeScript**, **React**, **C#/.NET** e *
 
   <!-- Banco de Dados -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
