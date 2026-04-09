@@ -1,62 +1,85 @@
-Olá! Eu sou o Gabriel Cordeiro
+<h1 align="center">Gabriel Cordeiro — Software Engineer 👨‍💻</h1>
 
-Bem-vindo ao meu espaço no GitHub, onde transformo ideias em *soluções inteligentes* e *código limpo*.  Sou apaixonado por tecnologia e tenho o objetivo de impactar o mundo desenvolvendo aplicações práticas e eficientes.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gcsfps/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielcordeiromail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-🧩 Sobre Mim
-Gosto de resolver problemas complexos com criatividade.
-Tenho experiência em desenvolvimento web, automação e soluções escaláveis.
-Sempre em busca de aprender e colaborar com equipes incríveis.
+## 🧠 Sobre mim
+Sou **Software Engineer** formado em **Análise e Desenvolvimento de Sistemas (UMC)**.  
+Trabalho com desenvolvimento de aplicações modernas, integrações complexas, automações, APIs, sistemas completos e infraestrutura com foco em organização, escalabilidade e boas práticas como Clean Architecture, SOLID, DDD e testes.
 
+---
 
+## 🔧 Tecnologias que utilizo
 
-🚀 Habilidades em Destaque
-Linguagens: Python, JavaScript, SQL, ...
-Frameworks: Django, Flask, React, ...
-Banco de Dados: PostgreSQL, SQLite
-Outros: Docker, Git, APIs RESTful, ...
+<p>
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white"/>
 
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-🔥 Projetos Recentes
-Aqui estão alguns dos projetos que me deram mais orgulho de desenvolver:
+  <!-- Infra -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E5A?style=for-the-badge&logo=minio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-Projeto Pizzaria (https://github.com/gcsfps/pizzaria): Sistema completo de gerenciamento para pizzarias.
+  <!-- APIs e Integrações -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <!-- Automação e IA -->
+  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chatwoot-1F88F5?style=for-the-badge&logo=chatwoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typebot-7C3AED?style=for-the-badge&logo=messenger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mautic-4E5FE2?style=for-the-badge&logo=mautic&logoColor=white"/>
+</p>
 
-Contrata VIP (https://github.com/gcsfps/site): Plataforma de organização de eventos e gestão de presenças VIPs.
+---
 
-BibliotecaApp (https://github.com/gcsfps/biblioteca): Sistema de cadastro de alunos e empréstimo de livros.
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gcsfps&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gcsfps&layout=compact&theme=radical"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gcsfps&theme=radical"/>
+</p>
 
+---
 
-🌐 Vamos nos Conectar?
+## 📬 Contato
+📧 **gabrielcordeiromail@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/gcsfps/)**  
 
-- LinkedIn (https://www.linkedin.com/in/gcsfps)
-- Twitter (https://x.com/cordeirogbr)
-- Instagram (https://www.instagram.com/cordeirogbr/)
+---
 
+<h3 align="center">⚡ Desenvolvedor de Sistemas e Processos</h3>
 
-Sempre em busca de código limpo e eficiente!
-
-Aqui está um exemplo simples de um script Python para automação:  
-![Código em GIF](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/media/codigo-animado.gif)
-
-```python
-import time
-
-def contador_regressivo(segundos):
-    while segundos:
-        mins, secs = divmod(segundos, 60)
-        print(f"\r⏳ {mins:02d}:{secs:02d}", end="")
-        time.sleep(1)
-        segundos -= 1
-    print("\n🚀 Tempo encerrado! Hora de agir!")
-
-# Iniciar um contador regressivo de 10 segundos
-contador_regressivo(10)
-
-🌟 Por que Trabalhar Comigo?
-🧠 Raciocínio Analítico: Resolvo problemas de forma criativa e estratégica.
-🤝 Habilidade Colaborativa: Amo contribuir para o sucesso de equipes.
-🚀 Adaptabilidade: Sempre pronto para aprender novas tecnologias e enfrentar desafios.
+---
