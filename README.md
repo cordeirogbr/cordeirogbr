@@ -7,13 +7,16 @@
   <a href="mailto:gabrielcordeiromail@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/cordeirogbr/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 Sou **Software Engineer** formado em **Análise e Desenvolvimento de Sistemas (UMC)**.  
-Trabalho com desenvolvimento de aplicações modernas, integrações complexas, automações, APIs, sistemas completos e infraestrutura com foco em organização, escalabilidade e boas práticas como Clean Architecture, SOLID, DDD e testes.
+Atuo no desenvolvimento fullstack com **TypeScript**, **React**, **C#/.NET** e **Python**, criando desde plataformas web e sistemas de gestão até automações e bots inteligentes. Tenho experiência com **PostgreSQL**, **Docker** e deploy em ambientes Linux, sempre focado em entregar soluções completas, escaláveis e bem estruturadas.
 
 ---
 
@@ -77,6 +80,7 @@ Trabalho com desenvolvimento de aplicações modernas, integrações complexas, 
 ## 📬 Contato
 📧 **gabrielcordeiromail@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/gcsfps/)**  
+📸 **[Instagram](https://www.instagram.com/cordeirogbr/)**  
 
 ---
 
