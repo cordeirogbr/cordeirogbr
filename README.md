@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Cordeiro — Software Engineer 👨‍💻</h1>
+<h1 align="center">Gabriel Cordeiro — Developer 💻</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gcsfps/">
