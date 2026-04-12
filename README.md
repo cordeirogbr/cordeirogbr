@@ -15,8 +15,11 @@
 ---
 
 ## 🧠 Sobre mim
-Sou **Desenvolvedor de sistemas** Cursando **Análise e Desenvolvimento de Sistemas na (UMC)**.  
-Atuo no desenvolvimento fullstack com **TypeScript**, **React**, **C#/.NET**, **Python**, **HTML** e **MySQL**, criando desde plataformas web e sistemas de gestão até automações e bots inteligentes. Tenho experiência com **PostgreSQL**, **Docker** e deploy em ambientes Linux, sempre focado em entregar soluções completas, escaláveis e bem estruturadas.
+Sou desenvolvedor de software com foco em criação de soluções completas, escaláveis e bem estruturadas.
+
+Atuo no desenvolvimento full stack utilizando tecnologias modernas, com experiência na construção de aplicações web, automações e sistemas de gestão.
+
+Tenho forte base em lógica, análise de dados e resolução de problemas, sempre buscando escrever código limpo, eficiente e de fácil manutenção.
 
 ---
 
@@ -65,6 +68,13 @@ Atuo no desenvolvimento fullstack com **TypeScript**, **React**, **C#/.NET**, **
 </p>
 
 ---
+💼 Experiência prática
+
+✔ Desenvolvimento de aplicações web completas  
+✔ Criação de APIs e integração de sistemas  
+✔ Automação de processos  
+✔ Estruturação de bancos de dados  
+✔ Deploy em ambientes Linux  
 
 ## 📊 GitHub Stats
 <p align="center">
