@@ -15,7 +15,7 @@
 ---
 
 ## 🧠 Sobre mim
-Sou **Software Engineer** formado em **Análise e Desenvolvimento de Sistemas (UMC)**.  
+Sou **Desenvolvedor de sistemas** Cursando **Análise e Desenvolvimento de Sistemas na (UMC)**.  
 Atuo no desenvolvimento fullstack com **TypeScript**, **React**, **C#/.NET**, **Python**, **HTML** e **MySQL**, criando desde plataformas web e sistemas de gestão até automações e bots inteligentes. Tenho experiência com **PostgreSQL**, **Docker** e deploy em ambientes Linux, sempre focado em entregar soluções completas, escaláveis e bem estruturadas.
 
 ---
