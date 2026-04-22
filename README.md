@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Cordeiro — Developer 💻</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gcsfps/">
+  <a href="https://www.linkedin.com/in/cordeirogbr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabrielcordeiromail@gmail.com">
@@ -33,7 +33,7 @@ Tenho forte base em lógica, análise de dados e resolução de problemas, sempr
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
   <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -59,16 +59,18 @@ Tenho forte base em lógica, análise de dados e resolução de problemas, sempr
 
   <!-- APIs e Integrações -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
   <!-- Automação e IA -->
   <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chatwoot-1F88F5?style=for-the-badge&logo=chatwoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typebot-7C3AED?style=for-the-badge&logo=messenger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mautic-4E5FE2?style=for-the-badge&logo=mautic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chatwoot-1F88F5?style=for-the-badge&logo=rocket.chat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typebot-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mautic-4E5FE2?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </p>
 
 ---
-💼 Experiência prática
+
+## 💼 Experiência prática
 
 ✔ Desenvolvimento de aplicações web completas  
 ✔ Criação de APIs e integração de sistemas  
@@ -76,21 +78,23 @@ Tenho forte base em lógica, análise de dados e resolução de problemas, sempr
 ✔ Estruturação de bancos de dados  
 ✔ Deploy em ambientes Linux  
 
+---
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gcsfps&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gcsfps&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cordeirogbr&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cordeirogbr&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gcsfps&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=cordeirogbr&theme=radical"/>
 </p>
 
 ---
 
 ## 📬 Contato
 📧 **gabrielcordeiromail@gmail.com**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/gcsfps/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/cordeirogbr/)**  
 📸 **[Instagram](https://www.instagram.com/cordeirogbr/)**  
 
 ---
