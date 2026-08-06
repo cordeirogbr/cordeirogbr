@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/cordeirogbr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://vercel.com/cordeirogbr"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.instagram.com/cordeirogbr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/obielcordeiro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 ---
@@ -92,7 +92,7 @@ Tenho forte base em lógica, análise de dados e resolução de problemas, sempr
 
 **gabrielcordeiromail@gmail.com**  
 **[LinkedIn](https://www.linkedin.com/in/cordeirogbr/)**  
-**[Instagram](https://www.instagram.com/cordeirogbr/)**
+**[Instagram](https://www.instagram.com/obielcordeiro/)**
 
 ---
 
